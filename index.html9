@@ -1,0 +1,150 @@
+# web-page-test
+website
+    <meta charset="utf-8">
+    <title>Canvas</title>
+<style>.content-color, .bingo{
+  background-color:blue;
+  color:white;
+}
+
+.highline-links{
+  font-weight:bold;
+  position:absolute;
+  top:32px;
+  margin-left:40%;
+  font-size:1.5em;
+}
+.link{
+    padding-left:3em;
+    text-decoration:none;
+}
+.link:hover{color:white;
+background-color:black;}
+.link:active{color:red;
+background-color:white}
+
+.the-lines{
+  width:400px;
+  font-family:sans-serif;
+  font-size:3em;
+  position:relative;
+  top:100px;
+  left:10%;
+}
+.break-rulle{font-size:19px;
+  position:relative;
+  top:-80px;
+  left:65%;
+  font-family:cursive;}
+
+.color-me{
+  color:blue;}
+
+h2{
+  position:relative;
+  left:20px;}
+a{padding:10px;}
+
+h4{
+  position:absolute;
+  top:159%;
+  font-size:3em;
+  width:700px;
+  color:white;
+  background-color:black;
+  z-index:2;}
+#imag{position:relative;
+  z-index:1;}
+
+.first-one{width:400px;
+position:relative;
+  left:10%;}
+.second-one{
+  width:400px;
+  position:relative;
+  bottom:15em;
+  left:40%;
+}
+.theird-one{
+  width:400px;
+  position:relative;
+  bottom:30em;
+  left:70%;}
+  
+#all-text-below{
+  padding:5%;}
+
+  .seko{
+  padding-left:12em;}
+
+.bingo{
+  padding:5%;
+  line-height:2em;
+  position:relative;
+  bottom:30em;}
+</style>
+<body>
+  <h2><span class="content-color">c</span>anvas<span class="color-me">.</span></h2>
+  <div class="highline-links"> <a target="-blog" href="https://brands4you.dk/" class="color-me link">home</a> <a target="-blog" href="https://brands4you.dk/" class="link">about us</a> <a target="-blog" href="https://brands4you.dk/" class="link">Rates</a> <a target="-blog" href="https://brands4you.dk/" class="link">Single</a> <a target="-blog" href="https://brands4you.dk/" class="link">Contact Us</a> <a target="-blog" href="https://brands4you.dk/" class="content-color link">+(65)42342346545</a></div>
+  <h1 class="the-lines">We are making better <span class="color-me">Coworking</span> for you.</h1>
+  <p class="the-lines take-left break-rulle">Collaboratively coordinate adaptive synergy with compelling "outside the box" thinking. Continually recaptiualize user friendly sources whereas leveraged</p>
+      <h4>Add any filed to your Custom Form Canvas's inbuilt forms processor will handle the rest. You will never have to touch any PHP Codes.</h4>
+
+ <img id="imag" src="https://www.sdf.dk/images/Artikler/teknik/panorama/panorama-2646143_1920.jpg" alt="T-Network" width="100%">
+
+
+  <div id="all-text-below">
+ <div class="first-one"><h3>Fiber Optic WIFI</h3>
+    <p>Add any filed to your Custom Form Canvas's inbuilt forms processor will handle the rest. You will never have to touch any PHP Codes.</p>
+   <h3>Lockers</h3>
+    <p>Add any filed to your Custom Form Canvas's inbuilt forms processor will handle the rest. You will never have to touch any PHP Codes.</p></div>
+  
+  <div class="second-one"><h3>Cafeteria</h3>
+  <p>Add any filed to your Custom Form Canvas's inbuilt forms processor will handle the rest. You will never have to touch any PHP Codes.</p>
+     <h3>100% Secure</h3>
+   <p>Add any filed to your Custom Form Canvas's inbuilt forms processor will handle the rest. You will never have to touch any PHP Codes.</p></div>
+    
+    
+ <div class="theird-one"><h3>Flexible Desks</h3>
+  <p>Add any filed to your Custom Form Canvas's inbuilt forms processor will handle the rest. You will never have to touch any PHP Codes.</p>
+ <h3>Printers & Fax</h3> 
+     <p>Add any filed to your Custom Form Canvas's inbuilt forms processor will handle the rest. You will never have to touch any PHP Codes.</p></div></div><div class="bingo"><table>
+  <thead>
+    <tr>
+      <th class="seko">Feautures</th>
+      <th class="seko">Support</th>
+      <th class="seko">Trending</th>
+      <th class="seko">Get to know us</th> 
+      <th class="seko">Instagram </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="seko">Help us</td>
+      <td class="seko">Home</td>
+      <td class="seko">Shope </td>
+      <td class="seko">Corporate</td>
+      <td class="seko">Fetching on instagram</td>
+    </tr>
+    <tr>
+      <td class="seko">paid </td>
+      <td class="seko">about</td>
+      <td class="seko">partfolio </td>
+      <td class="seko">agency</td>
+    </tr>
+    <tr>
+      <td class="seko">status </td>
+      <td class="seko">FAQs</td>
+      <td class="seko">blog </td>
+      <td class="seko">eCommerce</td>
+    </tr>
+    <tr>
+      <td class="seko">contact sopporter</td>
+      <td class="seko">support</td>
+      <td class="seko"> </td>
+      <td class="seko">personal</td>
+    </tr>
+  </tbody>
+</table> 
+  </div>
+</body>
